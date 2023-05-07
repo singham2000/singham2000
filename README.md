@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on carbon collab<br>👯 I’m looking to collaborate on carbon collab<br>🤝 I’m looking for help with socket.io<br>🌱 I’m currently learning WEBRTC<br>
+🔭 I’m currently working on carbon collab<br>👯 I’m looking to collaborate on carbon collab<br>🤝 I’m looking for help with socket.io<br>🌱 I’m currently learning WEBRTC and socket.io<br>
 
 
 ## 🌐 Socials:
